@@ -9,6 +9,7 @@
 <h1>ONLINE VOTING SYSTEM</h1>
 <hr>
 <div id="profile"></div>
+	
 <div id="group"></div>
 </body>
 </html>
